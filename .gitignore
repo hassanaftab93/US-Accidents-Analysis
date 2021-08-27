@@ -129,4 +129,5 @@ dmypy.json
 .pyre/
 
 # CSV
+.sh
 .csv
